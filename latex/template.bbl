@@ -1,8 +1,8 @@
 \begin{thebibliography}{\protect\citename{Jun~Lee and WooHyun~Kim }2009}
 
 \bibitem[\protect\citename{Almgren et~al\mbox{.} }2005]{almgren05}
-{\sc Almgren, J., Carlsson, R., Erkkonen, H., Fredriksson, J., Møller, S.,
-  Rydgård, H., Österberg, M., and Fjeld, M.}
+{\sc Almgren, J., Carlsson, R., Erkkonen, H., Fredriksson, J., M{\o}ller, S.,
+  Rydg{\aa}rd, H., {\"O}sterberg, M., and Fjeld, M.}
 \newblock 2005.
 \newblock Tangible user interface for chemistry education.
 \newblock In {\em Visualization, Portability, and Database. Proc. SIGRAD 2005}.
@@ -106,7 +106,7 @@
 \newblock 2003.
 \newblock Tangible query interfaces: Physically constrained tokens for
   manipulating database queries.
-\newblock In {\em Proceedings of Interact’03}, 279--286.
+\newblock In {\em Proceedings of Interact'03}, 279--286.
 
 \bibitem[\protect\citename{Underkoffler and Ishii }1999]{underkoffler99}
 {\sc Underkoffler, J., and Ishii, H.}
