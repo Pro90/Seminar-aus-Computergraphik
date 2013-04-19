@@ -1,65 +1,118 @@
-\begin{thebibliography}{\protect\citename{Fedkiw et~al\mbox{.} }2001}
+\begin{thebibliography}{\protect\citename{Jun~Lee and WooHyun~Kim }2009}
 
-\bibitem[\protect\citename{Exl }2002]{exluna2002}
-{\sc Exluna, Inc.}
+\bibitem[\protect\citename{Almgren et~al\mbox{.} }2005]{almgren05}
+{\sc Almgren, J., Carlsson, R., Erkkonen, H., Fredriksson, J., Møller, S.,
+  Rydgård, H., Österberg, M., and Fjeld, M.}
+\newblock 2005.
+\newblock Tangible user interface for chemistry education.
+\newblock In {\em Visualization, Portability, and Database. Proc. SIGRAD 2005}.
+
+\bibitem[\protect\citename{Avrahami et~al\mbox{.} }2011]{avrahami11}
+{\sc Avrahami, D., Wobbrock, J.~O., and Izadi, S.}
+\newblock 2011.
+\newblock Portico: tangible interaction on and around a tablet.
+\newblock In {\em Proceedings of the 24th annual ACM symposium on User
+  interface software and technology}, ACM, New York, NY, USA, UIST '11,
+  347--356.
+
+\bibitem[\protect\citename{Hermann et~al\mbox{.} }2007]{hermann07}
+{\sc Hermann, T., Bovermann, T., Riedenklau, E., and Ritter, H.}
+\newblock 2007.
+\newblock Tangible computing for interactive sonification of multivariate data.
+
+\bibitem[\protect\citename{Holman et~al\mbox{.} }2005]{holman05}
+{\sc Holman, D., Vertegaal, R., Altosaar, M., Troje, N., and Johns, D.}
+\newblock 2005.
+\newblock Paper windows: interaction techniques for digital paper.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM, New York, NY, USA, CHI '05, 591--599.
+
+\bibitem[\protect\citename{Hornecker and Buur }2006]{hornecker06}
+{\sc Hornecker, E., and Buur, J.}
+\newblock 2006.
+\newblock Getting a grip on tangible interaction: a framework on physical space
+  and social interaction.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM, New York, NY, USA, CHI '06, 437--446.
+
+\bibitem[\protect\citename{Ishii et~al\mbox{.} }2002]{ishii02}
+{\sc Ishii, H., Underkoffler, J., Chak, D., and Piper, B.}
 \newblock 2002.
-\newblock {\em Entropy 3.1 Technical Reference}, January.
+\newblock Augmented urban planning workbench: Overlaying drawings, physical
+  models and digital simulation.
+\newblock 203--211.
 
-\bibitem[\protect\citename{Fedkiw et~al\mbox{.} }2001]{fedkiw:2001:VSO}
-{\sc Fedkiw, R., Stam, J., and Jensen, H.~W.}
-\newblock 2001.
-\newblock Visual simulation of smoke.
-\newblock In {\em Proceedings of SIGGRAPH 2001}, ACM Press / ACM SIGGRAPH,
-  E.~Fiume, Ed., Computer Graphics Proceedings, Annual Conference Series, ACM,
-  15--22.
+\bibitem[\protect\citename{Jord\`{a} et~al\mbox{.} }2007]{jorda07}
+{\sc Jord\`{a}, S., Geiger, G., Alonso, M., and Kaltenbrunner, M.}
+\newblock 2007.
+\newblock The reactable: exploring the synergy between live music performance
+  and tabletop tangible interfaces.
+\newblock In {\em Proceedings of the 1st international conference on Tangible
+  and embedded interaction}, ACM, New York, NY, USA, TEI '07, 139--146.
 
-\bibitem[\protect\citename{Jobson et~al\mbox{.} }1995]{Jobs95}
-{\sc Jobson, D.~J., Rahman, Z., and Woodell, G.~A.}
-\newblock 1995.
-\newblock Retinex image processing: Improved fidelity to direct visual
-  observation.
-\newblock In {\em Proceedings of the IS\&T Fourth Color Imaging Conference:
-  Color Science, Systems, and Applications}, vol.~4, 124--125.
+\bibitem[\protect\citename{Jun~Lee and WooHyun~Kim }2009]{lee09}
+{\sc Jun~Lee, YoungTae~Roh, J.-I.~K., and WooHyun~Kim, SungPil~Hong, H.~K.}
+\newblock 2009.
+\newblock A steerable tangible interface for multi-layered contents played on a
+  tabletop interface.
+\newblock In {\em DVD of ITS '09}, ACM.
 
-\bibitem[\protect\citename{Kartch }2000]{kartch:2000:ERA}
-{\sc Kartch, D.}
+\bibitem[\protect\citename{Koike et~al\mbox{.} }2000]{koike00}
+{\sc Koike, H., Sato, Y., Kobayashi, Y., Tobita, H., and Kobayashi, M.}
 \newblock 2000.
-\newblock {\em Efficient Rendering and Compression for Full-Parallax
-  Computer-Generated Holographic Stereograms}.
-\newblock PhD thesis, Cornell University.
+\newblock Interactive textbook and interactive venn diagram: natural and
+  intuitive interfaces on augmented desk system.
+\newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
+  Computing Systems}, ACM, New York, NY, USA, CHI '00, 121--128.
 
-\bibitem[\protect\citename{Landis }2002]{notes2002}
-{\sc Landis, H.}, 2002.
-\newblock Global illumination in production.
-\newblock ACM SIGGRAPH 2002 Course \#16 Notes, July.
+\bibitem[\protect\citename{Lapides et~al\mbox{.} }2008]{lapides00}
+{\sc Lapides, P., Sharlin, E., and Sousa, M.~C.}
+\newblock 2008.
+\newblock Three dimensional tangible user interface for controlling a robotic
+  team.
 
-\bibitem[\protect\citename{Levoy et~al\mbox{.} }2000]{levoy:2000:TDM}
-{\sc Levoy, M., Pulli, K., Curless, B., Rusinkiewicz, S., Koller, D., Pereira,
-  L., Ginzton, M., Anderson, S., Davis, J., Ginsberg, J., Shade, J., and Fulk,
-  D.}
-\newblock 2000.
-\newblock The digital michelangelo project.
-\newblock In {\em Proceedings of SIGGRAPH 2000}, ACM Press / ACM SIGGRAPH, New
-  York, K.~Akeley, Ed., Computer Graphics Proceedings, Annual Conference
-  Series, ACM, 131--144.
+\bibitem[\protect\citename{Shaer and Hornecker }2010]{hornecker10}
+{\sc Shaer, O., and Hornecker, E.}
+\newblock 2010.
+\newblock Tangible user interfaces: Past, present, and future directions.
+\newblock {\em Found. Trends Hum.-Comput. Interact. 3}, 1\&\#8211;2 (Jan.),
+  1--137.
 
-\bibitem[\protect\citename{Parke and Waters }1996]{parke:1996:CFA}
-{\sc Parke, F.~I., and Waters, K.}
-\newblock 1996.
-\newblock {\em Computer Facial Animation}.
-\newblock A. K. Peters.
+\bibitem[\protect\citename{Shaer et~al\mbox{.} }2010]{shaer10}
+{\sc Shaer, O., Kol, G., Strait, M., Fan, C., Grevet, C., and Elfenbein, S.}
+\newblock 2010.
+\newblock G-nome surfer: a tabletop interface for collaborative exploration of
+  genomic data.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM, New York, NY, USA, CHI '10, 1427--1436.
 
-\bibitem[\protect\citename{Sako and Fujimura }2000]{sako:2001:SSB}
-{\sc Sako, Y., and Fujimura, K.}
-\newblock 2000.
-\newblock Shape similarity by homotropic deformation.
-\newblock {\em The Visual Computer 16}, 1, 47--61.
+\bibitem[\protect\citename{Spindler et~al\mbox{.} }2010]{spindler10}
+{\sc Spindler, M., Tominski, C., Schumann, H., and Dachselt, R.}
+\newblock 2010.
+\newblock Tangible views for information visualization.
+\newblock In {\em ACM International Conference on Interactive Tabletops and
+  Surfaces}, ACM, New York, NY, USA, ITS '10, 157--166.
 
-\bibitem[\protect\citename{Yee }2000]{yee:2000:SSA}
-{\sc Yee, Y. L.~H.}
-\newblock 2000.
-\newblock {\em Spatiotemporal sensistivity and visual attention for efficient
-  rendering of dynamic environments}.
-\newblock Master's thesis, Cornell University.
+\bibitem[\protect\citename{Ullmer and Ishii }1997]{ullmer97}
+{\sc Ullmer, B., and Ishii, H.}
+\newblock 1997.
+\newblock The metadesk: models and prototypes for tangible user interfaces.
+\newblock In {\em Proceedings of the 10th annual ACM symposium on User
+  interface software and technology}, ACM, New York, NY, USA, UIST '97,
+  223--232.
+
+\bibitem[\protect\citename{Ullmer et~al\mbox{.} }2003]{ullmer03}
+{\sc Ullmer, B., Ishii, H., and Jacob, R. J.~K.}
+\newblock 2003.
+\newblock Tangible query interfaces: Physically constrained tokens for
+  manipulating database queries.
+\newblock In {\em Proceedings of Interact’03}, 279--286.
+
+\bibitem[\protect\citename{Underkoffler and Ishii }1999]{underkoffler99}
+{\sc Underkoffler, J., and Ishii, H.}
+\newblock 1999.
+\newblock Urp: a luminous-tangible workbench for urban planning and design.
+\newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
+  Computing Systems}, ACM, New York, NY, USA, CHI '99, 386--393.
 
 \end{thebibliography}
