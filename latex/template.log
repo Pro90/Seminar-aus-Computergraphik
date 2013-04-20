@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.11.28)  20 APR 2013 02:46
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.11.28)  20 APR 2013 20:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -241,71 +241,124 @@ LaTeX Warning: Citation 'holman05' on page 1 undefined on input line 63.
 
 (./chapters/introduction.tex) (./chapters/design.tex) (./chapters/examples.tex
 
-LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 8.
+LaTeX Warning: Reference `fig:reactable' on page 1 undefined on input line 5.
 
 
 LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 8.
 
 
-LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 9.
+LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 10.
 
 <figures/reactable.pdf, id=1, 234.1548pt x 124.18394pt>
 File: figures/reactable.pdf Graphic file (type pdf)
 
 <use figures/reactable.pdf>
-Package pdftex.def Info: figures/reactable.pdf used on input line 13.
+Package pdftex.def Info: figures/reactable.pdf used on input line 14.
 (pdftex.def)             Requested size: 227.64894pt x 120.73871pt.
 
 
-LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 14.
+LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 19.
+LaTeX Warning: Citation 'jorda07' on page 1 undefined on input line 20.
 
 
-LaTeX Warning: Citation 'lee05' on page 1 undefined on input line 22.
+LaTeX Warning: Citation 'lee05' on page 1 undefined on input line 23.
 
 [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./figures/reactable.pdf>]
 
-LaTeX Warning: Citation 'lee05' on page 2 undefined on input line 24.
+LaTeX Warning: Citation 'lee05' on page 2 undefined on input line 25.
 
 
-LaTeX Warning: Citation 'lee05' on page 2 undefined on input line 26.
+LaTeX Warning: Citation 'lee05' on page 2 undefined on input line 27.
 
 
-LaTeX Warning: Citation 'ishii02' on page 2 undefined on input line 30.
+LaTeX Warning: Citation 'ishii02' on page 2 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'ishii02' on page 2 undefined on input line 33.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 38.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+
+
+LaTeX Warning: Citation 'underkoffler99' on page 2 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'underkoffler99' on page 2 undefined on input line 44.
+
+
+LaTeX Warning: Reference `fig:luminous_table' on page 2 undefined on input line
+ 47.
+
+
+LaTeX Warning: Citation 'ishii02' on page 2 undefined on input line 47.
+
+<figures/luminous_table.pdf, id=90, 256.96pt x 128.48pt>
+File: figures/luminous_table.pdf Graphic file (type pdf)
+
+<use figures/luminous_table.pdf>
+Package pdftex.def Info: figures/luminous_table.pdf used on input line 51.
+(pdftex.def)             Requested size: 227.64894pt x 113.82535pt.
+
+
+LaTeX Warning: Citation 'ishii02' on page 2 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'avrahami11' on page 2 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'avrahami' on page 2 undefined on input line 60.
+
+[2 <./figures/luminous_table.pdf>]
+
+LaTeX Warning: Citation 'holman05' on page 3 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'holman05' on page 3 undefined on input line 63.
 
 ) (./chapters/visualization.tex) (./chapters/discussion.tex) (./template.bbl
 Underfull \hbox (badness 6125) in paragraph at lines 90--95
 []\OT1/ptm/m/sc/9 Spindler, M., Tomin-ski, C., Schu-mann, H., and
  []
 
-) [2] (./template.aux)
+) [3] (./template.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1797 strings out of 493488
- 26130 string characters out of 3141325
+ 1823 strings out of 493488
+ 26621 string characters out of 3141325
  86157 words of memory out of 3000000
- 5052 multiletter control sequences out of 15000+200000
- 41624 words of font info for 89 fonts, out of 3000000 for 9000
+ 5073 multiletter control sequences out of 15000+200000
+ 41879 words of font info for 90 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,15n,26p,687b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,15n,26p,969b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/
 texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
-2/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-di
-st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on template.pdf (2 pages, 1074250 bytes).
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist
+/fonts/type1/urw/times/utmri8a.pfb>
+Output written on template.pdf (3 pages, 2707318 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 152 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
