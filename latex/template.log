@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.4.14)  22 APR 2013 04:30
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.4.14)  22 APR 2013 15:01
 entering extended mode
 **E:/TU/SeminarComputergrafik/Seminar-aus-Computergraphik/latex/template.tex
 (E:/TU/SeminarComputergrafik/Seminar-aus-Computergraphik/latex/template.tex
@@ -183,38 +183,39 @@ tex [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 24.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 48.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
 )
 (E:\TU\SeminarComputergrafik\Seminar-aus-Computergraphik\latex\chapters/example
-s.tex <figures/reactable.pdf, id=10, 234.1548pt x 124.18394pt>
+s.tex [2] <figures/reactable.pdf, id=15, 234.1548pt x 124.18394pt>
 File: figures/reactable.pdf Graphic file (type pdf)
 
 <use figures/reactable.pdf>
 
-LaTeX Warning: Citation 'lee05' on page 2 undefined on input line 22.
+LaTeX Warning: Citation 'lee05' on page 3 undefined on input line 22.
 
 
-LaTeX Warning: Citation 'lee05' on page 2 undefined on input line 24.
+LaTeX Warning: Citation 'lee05' on page 3 undefined on input line 24.
 
 
-LaTeX Warning: Citation 'lee05' on page 2 undefined on input line 26.
+LaTeX Warning: Citation 'lee05' on page 3 undefined on input line 26.
 
-[2 <E:/TU/SeminarComputergrafik/Seminar-aus-Computergraphik/latex/figures/react
-able.pdf>] <figures/luminous_table.pdf, id=93, 256.96pt x 128.48pt>
+[3 <E:/TU/SeminarComputergrafik/Seminar-aus-Computergraphik/latex/figures/react
+able.pdf>] <figures/luminous_table.pdf, id=97, 256.96pt x 128.48pt>
 File: figures/luminous_table.pdf Graphic file (type pdf)
 
 <use figures/luminous_table.pdf>
 
-LaTeX Warning: Citation 'avrahami' on page 3 undefined on input line 59.
+LaTeX Warning: Citation 'avrahami' on page 4 undefined on input line 59.
 
-[3 <E:/TU/SeminarComputergrafik/Seminar-aus-Computergraphik/latex/figures/lumin
-ous_table.pdf>])
+)
 (E:\TU\SeminarComputergrafik\Seminar-aus-Computergraphik\latex\chapters/visuali
 zation.tex)
 (E:\TU\SeminarComputergrafik\Seminar-aus-Computergraphik\latex\chapters/discuss
@@ -222,34 +223,34 @@ ion.tex)
 (E:\TU\SeminarComputergrafik\Seminar-aus-Computergraphik\latex\template.bbl
 Underfull \vbox (badness 3179) has occurred while \output is active []
 
-
+ [4 <E:/TU/SeminarComputergrafik/Seminar-aus-Computergraphik/latex/figures/lumi
+nous_table.pdf>]
 Underfull \hbox (badness 6125) in paragraph at lines 89--94
 []\OT1/ptm/m/sc/9 Spindler, M., Tomin-ski, C., Schu-mann, H., and
  []
 
-[4]) [5
-
-]
+) [5]
 (E:\TU\SeminarComputergrafik\Seminar-aus-Computergraphik\latex\template.aux) ) 
 Here is how much of TeX's memory you used:
- 1308 strings out of 494053
- 18779 string characters out of 3146182
- 76110 words of memory out of 3000000
- 4577 multiletter control sequences out of 15000+200000
- 41879 words of font info for 90 fonts, out of 3000000 for 9000
+ 1321 strings out of 494053
+ 18953 string characters out of 3146182
+ 75110 words of memory out of 3000000
+ 4588 multiletter control sequences out of 15000+200000
+ 46960 words of font info for 102 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 35i,15n,21p,1527b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,15n,21p,1027b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
 {
 C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
 es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/urw/times/utmri8a.pfb>
-Output written on template.pdf (5 pages, 2724667 bytes).
+(x86)/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on template.pdf (5 pages, 2730529 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
