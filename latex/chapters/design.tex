@@ -1,19 +1,32 @@
 \section{Typical designs of Tangible User Interfaces}
 
 In this section we will discuss different hardware implementations of tangible user interfaces and take a look on the different design spaces they are used in. 
-The graphical user interface (GUI) with the input devices of mouse and keyboard falls short in embracing the rich interface modalities between people and the physical environment they inhabit \cite{ullmer97}. 
+% The interpretation of tangible user interfaces varies throughout the field. Ullmer and Ishii \cite{ullmer97} 
 
-The interpretation of tangible user interfaces varies throughout the field. Ullmer and Ishii \cite{ullmer97} 
+Design spaces that we discuss in this paper include but are not limited to
+\begin{itemize}
+\item  Information Visualization
+\item Architectural Contexts
+\item Geographical Contexts
+\item Entertainment
+\end{itemize}
 
-design spaces include bur are not limited to
-- information visualization
-- architectural
-- geographical
-- "entertainment"
+Shaer and Hornecker \cite{hornecker10} also give the following list of possible application domains:
+\begin{itemize}
+\item TUIs for Learning
+\item Problem Solving and Planning
+\item Information Visualization
+\item Tangible Programming
+\item Entertainment, Play, and Edutainment
+\item Music and Performance
+\item Social Communication 
+\item Tangible Reminders and Tags
+\end{itemize}
 
+For the hardware description we will retain at two implementations: the metaDESK system by Ullmer and Ishii \cite{ullmer97} and Tangible Views by Spindler, Tominski, Schuhmann and Dachselt \cite{spindler10}
+The metaDESK system hereby depicts a system whose components are fixed and attached to the system, whereas in the Tangible Views system the views are simple physical surfaces with no restrictions on size and shape. 
 
-we give first example of stationary display with fixed devices , then more free ones
-
+The last part of this section is a view on social aspects of Tangible User Interfaces.
 
 \subsection{metaDESK}
 One of the attemps in broadening the input possibilities to different devices is the metaDESK system introduced by Ullmer and Ishii \cite{ullmer97}. They describe a "Tangible User Interface" (TUI) as a user interface employing physical objects, instruments, surfaces, and spaces as physical interfaces to digital information. The metaDESK system consists of: a desk, a nearly-horizontal backprojected graphical surface; an active lens an arm-mounted flat-panel display; one or more passive lenses, an optically transparent surface through with the desk projects; and an assortment of physical objects an instruments which are used on the desk's surface. The components are sensed by an array of optical, mechanical and electromagnetic field sensors.
@@ -36,7 +49,7 @@ Albeit the extension of input methods it is not the goal of metaDESK to replace 
 
 
 
-\subsection{Other solutions to Tangible Interfaces}
+\subsection{Tangible Views}
 Spindler, Tominski, Schuhmann and Dachselt \cite{spindler10} introduce 'tangible views' for use in Information Visualization as spatially aware lightweight displays that can be interacted with by moving them through the physical space on or above a tabletop surface. 
 
 The motivation for their project is the difficulty of encoding all information in a single image once a data set exceeds a certain size or complexity. This problem can be solved spatially by providing multiple views on the data or embedding additional local views in the visualization or it can be solved temporally by changing the representations over time. They define a tangible view as a physical surface, that users can hold in their hands with no restrictions on size and shape.
@@ -52,7 +65,6 @@ In summary tangible views:
 
 Tangible views do not exist on their own, but are integrated into an environment of one or more stationary displays of arbitrary size, shape and orientation. 
 They also describe a basic display configuration consisting of a horizontal tabletop for the main context view and tangible views as local views into the information space. This relates to the focus and context concept.
-
 
 
 
