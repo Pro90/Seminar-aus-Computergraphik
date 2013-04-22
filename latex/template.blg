@@ -20,4 +20,48 @@ Warning--empty organization in spindler10
 Warning--empty organization in ullmer97
 Warning--empty organization in ullmer03
 Warning--empty organization in underkoffler99
+<<<<<<< HEAD
+=======
+You've used 18 entries,
+            2748 wiz_defined-function locations,
+            698 strings with 7983 characters,
+and the built_in function-call counts, 8082 in all, are:
+= -- 798
+> -- 380
+< -- 0
++ -- 134
+- -- 137
+* -- 696
+:= -- 1352
+add.period$ -- 69
+call.type$ -- 18
+change.case$ -- 135
+chr.to.int$ -- 18
+cite$ -- 36
+duplicate$ -- 305
+empty$ -- 630
+format.name$ -- 154
+if$ -- 1628
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 108
+num.names$ -- 54
+pop$ -- 146
+preamble$ -- 1
+purify$ -- 117
+quote$ -- 0
+skip$ -- 157
+stack$ -- 0
+substring$ -- 418
+swap$ -- 50
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 144
+warning$ -- 18
+while$ -- 68
+width$ -- 22
+write$ -- 270
+>>>>>>> progress
 (There were 19 warnings)
