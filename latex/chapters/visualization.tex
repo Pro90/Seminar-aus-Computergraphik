@@ -1,5 +1,79 @@
 \section{Tangible User Interfaces in Visualization}
 The purpose of this chapter is to introduce Tangible User Interfaces which are settled in the domain of Visualization. We will give an overview of TUIs in Visualization we consider noteworthy. In the previous chapter, some of the presented TUIs could also be labeled as TUIs for Visualization, because some output is visualized by the system. In the reacTable for example, the sound waves between different musical objects are visualized on the tabletop. However, the reactAble is designed as a musical instrument. In this chapter, we will focus explicitly on TUIs, which sole purpose is the Visualization of data.
 
-\section{Tangible Views for Information Visualization}
-Tangible Views is a Tangible User Interface for Information Visualization presented by \cite{spindler10}. It consists of several handheld displays, which allow to interact with the visualized data in a more direct way. Similar to Paper Windows, a TUI presented by \cite{holman05}, the information is project onto cardboard displays (tangible views) as well as a tabletop. The setup also consists of several IR cameras, which track the tangible views and make them spatially aware. Gestures performed on the tangible view are recognized by the system as well. 
+\subsection{Tangible Views for Information Visualization}
+Tangible Views is a Tangible User Interface for Information Visualization presented by \cite{spindler10}. It consists of several handheld displays, which allow to interact with the visualized data in a more direct way. Similar to Paper Windows, a TUI presented by \cite{holman05}, the information is project onto cardboard displays (Tangible Views) as well as a tabletop. The setup also consists of several IR cameras, which track the Tangible Views and make them spatially aware. Gestures performed on the Tangible View are recognized by the system as well. Tangible Views are enhanced with IR markers, to simplify tracking. The cardboard displays are cheap in production. Therefore, it is easy to produce tangible views in different shapes and sizes. Figure \ref{fig:tangible_views} shows applications of Tangible Views in practice. \shortcite{spindler10}
+
+\begin{figure*}[htb]
+\centering
+\includegraphics[width=0.95\textwidth]{figures/tangible_views.png}
+\caption{Tangible Views in practice (compare \shortcite{spindler10})}
+\label{fig:tangible_views}
+\end{figure*}
+
+\subsubsection{Representational aspects}
+The stationary tabletop display, which can be of arbitrary size and shape, acts as a contextual background. Graphical information is displayed on the tabletop display. In this information space, the Tangible Views serve Oas local views in context with the tabletop display. Tangible Views can be used with other Tangible Views simultaneously. They can be seen as a multiple view environment with each Tangible View representing a unique physical view into a virtual information world. This makes them an ideal tool for collaboration or comparison tasks. Since Tangible Views can be easily produced, different shapes may contribute to different visualization tasks and take a special role during interaction. shortcite{spindler10}
+
+\subsubsection{Interaction with Tangible Views}
+The design of Tangible Views was aimed at an easy and natural usage, which is inspired by everyday life interaction principles. The interaction takes place within the physical space defined by the tabletop display. In this three-dimensional space, Tangible Views are moved around by the users and provide appropriate feedback. Six degrees of freedom are available for interaction, this includes the position and the local rotation of the Tangible View. Corresponding interactions are translation and rotation, which are easy to learn and simple to execute. \shortcite{spindler10}
+
+\subsubsection{Interaction Patterns}
+\cite{spindler10} define eight Interaction Techniques for interaction with Tangible Views. The interaction techniques have been tailored to fit the needs of Information Visualization. Some of the techniques rely heavily on the available six degrees of freedom. The following eight techniques are defined in Tangible Views, figure \ref{fig:tangible_views_interaction} shows the interaction techniques graphically.
+
+\begin{itemize}
+\item Translation: In this technique, shifts and movements of the Tangible Views are interpreted as interaction. The resulting three degrees of freedom (3DOF) can be utilized by using all 3DOF or by restricting them to one or two axes. 
+\item Rotation: Another way of interaction is to use the Tangible Views local orientation. This includes 3DOF. \cite{spindler10} distinguish between two types of rotation: horizontal rotation around the z and vertical rotations around the x and/or y axis. 
+\item Freezing: In certain situations, it can be useful to move a Tangible View without the intention of interacting with the system. This can be the case when users want to study a specific view in more detail or keep it for later examination. When the Tangible View is frozen, the system ignores its movement. Freezing can affect all three 3DOF, or only the z-axis or the x-y axis. 
+\item Gestures: The concept of gestures include more complex types of interaction techniques. This includes flipping, shaking and tilting the Tangible Views. These techniques enhance the range of interaction possibilities wit the system.
+\item Direct Pointing: In addition to interacting with Tangible Views, it is also possible to interact on them. Multi-touch and digital pens can both be used on the Tangible Views and the stationary display. Multi-touch is used for interacting with the user interface elements, digital pens can be utilized for more precise input such as writing or exact pointing. 
+\item Toolbox Metaphor: The main idea is to assign specialized tasks to physical properties of Tangible Views. In particular the shape and the visual appearance of Tangible Views are relevant. Specialized tools can be mapped to Tangible Views with certain physical properties. Depending on the their aim of interaction, users can switch tools by simply exchanging tangible views.
+\item Visual Feedback: Visual Feedback is important for interacting witch a visual system. Therefore, instant feedback is provided on a Tangible View or on the tabletop display.
+\item Multiple Views: Multiple local views are supported within the space of the global stationary display. Tangible Views can interact side by side independently, or overlap each other. Overlapping Tangible Views influence each other. The visual output of one Tangible View may depend on the output of another one. \shortcite{spindler10}
+\end{itemize}
+
+\subsubsection{Tangible Views in practice}
+\cite{spindler10} studied the usefulness of Tangible Views in several case studies. Different types of information Visualization tasks were implemented in the system. 
+
+Scatter plots visualize correlation in a multivariate data set by mapping two variables to x-y position of graphical primitives. Color, size and shape of these primitives can be used to encode further variables. In a dense plot, graphical primitives could become very tiny, making it hard to differentiate between them. The tabletop display shows the scatter plot as whole mapped to its x- and y axis. A zoom lens and a fisheye lens serve as Tangible Views. With the zoom lens, the user can zoom in and out of the visualized data. The fisheye lens temporarily sacrifices the positional encoding to disentangle dense parts of a scatter plot. By rotating it horizontally, the degree of displacement can be controlled. \shortcite{spindler10}
+
+In Graph Visualization, node-link diagrams and hierarchical abstraction are used to interactively explore large graphs. In Tangible Views, a rectangular Tangible View servers as a local abstraction view for the graph shown on the tabletop display. The degree of abstraction can be changed by vertical translation. This way it is possible to explore the graph at different levels of detail. The tabletop display gives visual feedback of the position of the Tangible View in the graph. \shortcite{spindler10}
+
+\begin{figure*}[htb]
+\centering
+\includegraphics[width=1.0\textwidth]{figures/tangible_views_interaction.pdf}
+\caption{Interaction techniques in Tangible Views (compare \shortcite{spindler10})}
+\label{fig:tangible_views_interaction}
+\end{figure*}
+
+\subsection{Steerable Tangible Interface for Multi-Layered Contents}
+\cite{lee09} propose a steerable tangible interface (STI) to intuitively interact with multi-layered content projected onto a tabletop display. Users can move a ring to locate to a region of interest and rotate the ring for navigating through different layers of visual information. The interaction can be compared to a magnifying glass, which is used to examine different layers of visualization content. \shortcite{lee09}
+
+\subsubsection{Configuration of the System}
+The steerable tangible interface consists of a ring with 18cm in internal radius, 1.5cm in thickness and 1cm in height. The internal circle represents a focus region, where detailed information is displayed. The ring is equipped with two LED lights to track its position and orientation. Moving the ring relocates the visualization area to the region in focus. By rotating the ring, a user can select a layer to be displayed. A Nintendo WiiRemote, installed on the ceiling,  tracks the STI. It recognizes the position of the two LEDs. With this information, the system computes the position and rotation angle of the STI. The information is displayed on tabletop display, similar to the ones described in \ref{sec:tabletop}. \shortcite{lee09}
+
+\subsubsection{Application of the Steerable Tangible Interface}
+The STI can be used for educational purposes. \cite{lee09} implemented a multi-layered medical education content on the system. Users can navigate through different layers of human body organs. If a user wants to see more detailed information beyond the skin layer, he puts the ring to the specified region. In the focus region, different views of human body information are visualized. By rotating the ring, different layers can be visualized in the region of the STI. \shortcite{lee09} 
+
+\subsection{G-nome Surfer}
+G-nome surfer is a multi-user, multi-touch table for collaborative exploration of genomic data, presented by \cite{shaer10}. G-nome surfer allows users to compare, annotate, share, and relate genomic data. The data presented by the system includes genome visualizations, publications and gene expressions.
+
+\subsubsection{Motivation}
+With G-nome surfer, scientists can collaboratively explore genomic information. Heterogeneous information can be related to each other, which simplifies comparison. Information from science databases, like abstracts of publications related to a particular gene, are also published. Through the use of touch gestures, intuitive interactions are used to simplify the exploration of complex genomic material. \shortcite{shaer10}
+
+\subsubsection{Implementation}
+G-nome Surfer is implemented on the Microsoft Surface tablet platform. Several databases serve as information providers for the genomic data. \shortcite{shaer10}
+
+\subsubsection{Navigation in G-nome Surfer}
+G-nome Surfer supports navigation of both eukaryotic and prokaryotic genomic data at multiple zoom levels. To access such data, a user selects an organism and then specifies a chromosome, range, or gene name. The view is then updated to display a portion of the chromosome with the specified gene in the center. For prokaryotes, a circular representation of the chromosome is displayed as a wheel beneath the chromosome track. With gestures, user can search through the chromosome track. With the chromosome wheel, prokaryote data can be traversed coarsely. Visual feedback is given all the time. By tapping on a gene, the genes sequence can be accessed. Sequences are displayed in separate windows. By snapping sequences together, a new windows opens with the information aligned beneath each other. \shortcite{shaer10}
+
+\subsection{Augmented Chemistry - A Tangible User Interface for Chemistry Education}
+Augmented Chemistry (AC) is a TUI for working and interacting with molecular models. It consists of a set of interactive tools, which work within the system. Since many tools can be used concurrently, multiple users can work with the system at a time. \shortcite{fjeld02}
+
+\subsubsection{System Setup}
+Augmented Chemistry is an augmented reality workbench consisting of a table and a rear-projection screen. Below the screen sits a camera, pointing in the users direction. The images of the camera are projected onto the screen. Therefore, the display acts as a mirror for the user. The mirror image is augmented with a virtual environment. A booklet, a cube, a platform and a Gripper act as the tools for interaction. Each of this tools carries one or more fiducial markers to interact with the system. \shortcite{fjeld02}
+
+\subsubsection{Interaction Techniques}
+Bringing together two elements, triggers the composition of a molecular model. The booklet shows elements by a printed picture and a name. The user browses the booklet with one hand. With the other hand, he can pickup an element using the Gripper. When the Gripper, charged with an element, is positioned near a platform holding a molecule, the element is connected with the molecule. With a rotation of the cube, users can determine where and how (single- double- or triple-binding) the element shall connect to the molecule. \shortcite{fjeld02}
+
+\subsubsection{Visualization of Molecules}
+Augmented Chemistry employs the ball-stick model for the visualization of molecules. In the booklet, working as an interactive menu, the valence of an atom can be seen. Atoms are visualized with a nucleus and the outmost valence shell. This representation of atoms is in accordance with the model of Bohr. \shortcite{fjeld02}
