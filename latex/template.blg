@@ -1,8 +1,8 @@
-This is BibTeX, Version 0.99d (TeX Live 2012)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: template.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: template.aux
 The style file: acmsiggraph.bst
 Database file #1: template.bib
+Warning--I didn't find a database entry for "lee05"
+Warning--I didn't find a database entry for "avrahami"
 Warning--empty organization in almgren05
 Warning--empty organization in avrahami11
 Warning--empty journal in hermann07
@@ -19,45 +19,4 @@ Warning--empty organization in spindler10
 Warning--empty organization in ullmer97
 Warning--empty organization in ullmer03
 Warning--empty organization in underkoffler99
-You've used 16 entries,
-            2748 wiz_defined-function locations,
-            690 strings with 7697 characters,
-and the built_in function-call counts, 7386 in all, are:
-= -- 727
-> -- 353
-< -- 0
-+ -- 126
-- -- 128
-* -- 645
-:= -- 1235
-add.period$ -- 62
-call.type$ -- 16
-change.case$ -- 123
-chr.to.int$ -- 16
-cite$ -- 32
-duplicate$ -- 277
-empty$ -- 574
-format.name$ -- 144
-if$ -- 1487
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 97
-num.names$ -- 48
-pop$ -- 133
-preamble$ -- 1
-purify$ -- 107
-quote$ -- 0
-skip$ -- 140
-stack$ -- 0
-substring$ -- 383
-swap$ -- 45
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 128
-warning$ -- 16
-while$ -- 61
-width$ -- 20
-write$ -- 245
-(There were 16 warnings)
+(There were 18 warnings)
