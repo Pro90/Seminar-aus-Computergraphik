@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: template.aux
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: template.aux
 The style file: acmsiggraph.bst
 Database file #1: template.bib
 Warning--I didn't find a database entry for "avrahami"
@@ -20,8 +22,6 @@ Warning--empty organization in spindler10
 Warning--empty organization in ullmer97
 Warning--empty organization in ullmer03
 Warning--empty organization in underkoffler99
-<<<<<<< HEAD
-=======
 You've used 18 entries,
             2748 wiz_defined-function locations,
             698 strings with 7983 characters,
@@ -63,5 +63,4 @@ warning$ -- 18
 while$ -- 68
 width$ -- 22
 write$ -- 270
->>>>>>> progress
 (There were 19 warnings)
