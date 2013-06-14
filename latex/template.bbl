@@ -1,4 +1,4 @@
-\begin{thebibliography}{\protect\citename{Avrahami et~al\mbox{.} }2011}
+\begin{thebibliography}{\protect\citename{Djajadiningrat et~al\mbox{.} }2002}
 
 \bibitem[\protect\citename{Almgren et~al\mbox{.} }2005]{almgren05}
 {\sc Almgren, J., Carlsson, R., Erkkonen, H., Fredriksson, J., M{\o}ller, S.,
@@ -14,6 +14,23 @@
 \newblock In {\em Proceedings of the 24th annual ACM symposium on User
   interface software and technology}, ACM, New York, NY, USA, UIST '11,
   347--356.
+
+\bibitem[\protect\citename{Ciolfi }2004]{Ciolfi04}
+{\sc Ciolfi, L.}
+\newblock 2004.
+\newblock Situating'place'in interaction design: Enhancing the user experience
+  in interactive environments.
+\newblock {\em richie.idc.ul.ie\/} (Jan.).
+
+\bibitem[\protect\citename{Djajadiningrat et~al\mbox{.}
+  }2002]{Djajadiningrat02}
+{\sc Djajadiningrat, T., Overbeeke, K., and Wensveen, S.}
+\newblock 2002.
+\newblock But how, donald, tell us how?: on the creation of meaning in
+  interaction design through feedforward and inherent feedback.
+\newblock In {\em Proceedings of the 4th conference on Designing interactive
+  systems: processes, practices, methods, and techniques}, ACM, New York, NY,
+  USA, DIS '02, 285--291.
 
 \bibitem[\protect\citename{Fjeld }2002]{fjeld02}
 {\sc Fjeld, M.}
@@ -33,6 +50,12 @@
 \newblock Paper windows: interaction techniques for digital paper.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, ACM, New York, NY, USA, CHI '05, 591--599.
+
+\bibitem[\protect\citename{Holmquist et~al\mbox{.} }2004]{Holmquist04}
+{\sc Holmquist, L.~E., Schmidt, A., and Ullmer, B.}
+\newblock 2004.
+\newblock Tangible interfaces in perspective: Guest editors' introduction.
+\newblock {\em Personal Ubiquitous Comput. 8}, 5 (Sept.), 291--293.
 
 \bibitem[\protect\citename{Hornecker and Buur }2006]{hornecker06}
 {\sc Hornecker, E., and Buur, J.}
@@ -120,6 +143,16 @@
 \newblock Tangible query interfaces: Physically constrained tokens for
   manipulating database queries.
 \newblock In {\em Proceedings of Interact'03}, 279--286.
+
+\bibitem[\protect\citename{Underkoffler and Ishii
+  }1998]{Underkoffler:1998:ILO:274644.274717}
+{\sc Underkoffler, J., and Ishii, H.}
+\newblock 1998.
+\newblock Illuminating light: an optical design tool with a luminous-tangible
+  interface.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM Press/Addison-Wesley Publishing Co., New York, NY,
+  USA, CHI '98, 542--549.
 
 \bibitem[\protect\citename{Underkoffler and Ishii }1999]{underkoffler99}
 {\sc Underkoffler, J., and Ishii, H.}
