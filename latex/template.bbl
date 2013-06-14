@@ -1,4 +1,4 @@
-\begin{thebibliography}{\protect\citename{Jun~Lee and WooHyun~Kim }2009}
+\begin{thebibliography}{\protect\citename{Avrahami et~al\mbox{.} }2011}
 
 \bibitem[\protect\citename{Almgren et~al\mbox{.} }2005]{almgren05}
 {\sc Almgren, J., Carlsson, R., Erkkonen, H., Fredriksson, J., M{\o}ller, S.,
@@ -57,8 +57,9 @@
 \newblock In {\em Proceedings of the 1st international conference on Tangible
   and embedded interaction}, ACM, New York, NY, USA, TEI '07, 139--146.
 
-\bibitem[\protect\citename{Jun~Lee and WooHyun~Kim }2009]{lee09}
-{\sc Jun~Lee, YoungTae~Roh, J.-I.~K., and WooHyun~Kim, SungPil~Hong, H.~K.}
+\bibitem[\protect\citename{Jun et~al\mbox{.} }2009]{lee09}
+{\sc Jun, L., YoungTae, R., Jee-In, K., WooHyun, K., SungPil, H., and
+  HyungSeok, K.}
 \newblock 2009.
 \newblock A steerable tangible interface for multi-layered contents played on a
   tabletop interface.
